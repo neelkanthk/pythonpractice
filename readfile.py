@@ -1,4 +1,6 @@
 #!/usr/bin/python
+
+# This script read a text file and saves its bytes into another file
 import os
 from time import strftime
 stamp = strftime("%Y-%m-%d %H:%M:%S")
